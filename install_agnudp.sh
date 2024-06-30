@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="100.126.224.23"
+DOMAIN="178.211.130.22"
 
 # PROTOCOL
 PROTOCOL="udp"
